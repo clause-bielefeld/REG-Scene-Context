@@ -1,0 +1,6 @@
+[submodule "models/CC"]
+	path = models/CC
+	url = https://github.com/simeonjunker/CLIP_prefix_caption.git
+[submodule "models/TRF"]
+	path = models/TRF
+	url = https://github.com/simeonjunker/retr.git
