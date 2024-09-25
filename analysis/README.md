@@ -25,3 +25,6 @@ Quality Evaluation Pipeline:
 
 1. Compute automatic quality metrics using ```compute_automatic_metrics.sh```
 2. Compile results and render tables in ```automatic_metrics_eval.ipynb```
+
+Generated data can be downloaded from here: https://drive.google.com/drive/folders/1Bu1a57HweS8-1jaF5momkmSVxbwkyxQj
+(to be placed in ```generated``` folder)
