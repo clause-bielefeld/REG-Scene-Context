@@ -1,2 +1,1 @@
-Note: Model files will be uploaded soon.
-In urgent cases, please contact the first author.
+Note: Please contact the first author to request the model files.
